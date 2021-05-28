@@ -1,5 +1,5 @@
 # MSA to GFA
-Small python program to turn MSA to GFA v1 with paths of original sequences, it can be then visualized with [gfaviz](https://github.com/ggonnella/gfaviz), 
+Small python program to turn MSA to GFA v1 wi
 or [bandage](https://rrwick.glble GFA visualization tools out there.
 
 The following options are available from calling main:
